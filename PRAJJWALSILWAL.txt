@@ -1,0 +1,31 @@
+PRAJJWAL SILWAL
+(318) 557-8090 | silwalprajjwal@gmail.com | linkedin.com/in/prajjwal-silwal | prajjwalsilwal.github.io
+PROFESSIONAL SUMMARY
+
+Business Data Analyst who helps organizations turn raw data into operational clarity and financial accuracy. Skilled in SQL, Power BI, and Python to automate data workflows, enhance KPI visibility, and improve executive decision-making. Proven record of reducing reporting cycles, standardizing analytical processes, and improving forecasting reliability across finance and operations teams. Adept at translating analytical findings into actionable recommendations that drive measurable business improvements.
+PROFESSIONAL EXPERIENCE
+Data Analyst (Associate – Analytics & Insights) | Cognizant Technology Solutions | Remote | Aug 2024 – Sep 2025
+-	Accelerated decision-making across finance and operations by building end-to-end Power BI reporting ecosystems integrated with SQL Server, Azure Data Lake, and Excel—cutting reporting turnaround times by 15% for multiple business units.
+-	Eliminated repetitive manual work by engineering automated SQL + Power Query pipelines and standardizing KPI logic, enabling teams to save 12+ hours weekly and maintain consistent reporting across stakeholders.
+-	Protected financial accuracy by conducting portfolio-level variance and forecasting analyses that identified high-impact cost leakages, leading to a 20% reduction in quarterly budget deviations.
+-	Improved executive reporting reliability by designing optimized semantic models (star schema) and tuning DAX calculations—reducing dashboard load times by 35% and enabling smooth performance at scale.
+KEY PROJECTS
+
+Sales Performance Optimization Dashboard | SQL, Jupyter Notebook, Python
+-	Improved sales planning accuracy by 40% by engineering a complete SQL-backed analytics pipeline that processed 10,000+ transactions and revealed high-impact regional KPI patterns.
+-	Enabled consistent and scalable reporting by creating automated data cleaning, aggregation, and KPI standardization workflows, forming the BI foundation for monthly performance reviews and leadership insights.
+Financial Forecasting Model | Python, Excel, Power BI
+-	Enhanced financial predictability by 18% by developing a regression-based forecasting model that identified revenue/expense trends and strengthened proactive planning.
+-	Equipped leadership with scenario-ready insights by engineering cross-platform datasets (Python + Excel) and visualizing baseline vs. predictive forecasts in Power BI for budgeting decisions.
+Technical Skills
+Data Analytics & BI: KPI design, financial/operational analysis, forecasting, trend modeling, variance analysis, ad hoc analytics
+SQL & Databases: Analytical querying, ETL development, stored procedures, data validation, Azure SQL, MySQL
+Python: pandas, NumPy, scikit-learn, data automation scripts, regression modeling, exploratory analysis
+Visualization & Reporting: Power BI (DAX, semantic modeling, executive dashboards), Tableau, Power Query, Jupyter Notebook
+Data Processing & Modeling: Data cleaning, transformation pipelines, star schema modeling, data quality checks
+Tools & Platforms: Excel (advanced formulas, pivot automation), Azure Data Lake, Git/GitHub
+
+Data storytelling for executives • Cross-functional communication • Requirement gathering • Problem-solving • Stakeholder alignment • Documentation and reporting • Business requirement translation
+EDUCATION
+University of Louisiana at Monroe — Completed 100+ Credit Hours Toward B.S. in Mathematics (2019 – 2023)
+Relevant Coursework: Statistics, Linear Algebra, Data Structures, Intermediate Programming, Economics, Business Analytics
